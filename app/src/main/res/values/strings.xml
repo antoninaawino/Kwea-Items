@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kwea Items</string>
+    <string name="dont_have_account"><u>Don"'"t have an account yet? Register</u></string>
+    <string name="already_have_account"><u>Already have an account yet? Login</u></string>
+    <string name="shop_details"><u>Shop details</u></string>
+
+</resources>
